@@ -5,7 +5,7 @@
 ### 🎬 스트리머 모니터링 & 멀티뷰 플랫폼
 
 [![Website](https://img.shields.io/badge/Website-bngts.com-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bngts.com)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/djadgfagoojilmfpnjnjdlippnfkblkk)
 
 <br/>
 
