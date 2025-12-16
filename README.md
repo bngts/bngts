@@ -76,7 +76,7 @@
 
 | Repository | Description |
 |:-----------|:------------|
-| [**bngts-extension**](https://github.com/bngts/bngts-extension) | 브라우저 확장 프로그램 (준비중) |
+| [**bngts-extension**](https://github.com/bngts/bngts-extension) | 브라우저 확장 프로그램 |
 
 ---
 
